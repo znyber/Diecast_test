@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "366312166602",
+    "firebase_url": "https://ilham-rr07-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ilham-rr07",
+    "storage_bucket": "ilham-rr07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366312166602:android:38f10f28c3d38addc55033",
+        "android_client_info": {
+          "package_name": "com.room.foodonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366312166602-oq9m79305mi8ug01u102ddq3b2gagbde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu7h5JVgqYOWED9gvADN01dpXe-qOZPLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "366312166602-oq9m79305mi8ug01u102ddq3b2gagbde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
